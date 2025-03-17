@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/Supervisor SDK/0.0.2/Sample/OpenXR.unity
+    guid: ce34903b796c42f41800b6d209ca68a8
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: df963e272f41dbf4f8eb884b41ea5b2b,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 11f05c9add3a4c14690980ec47b3960e,
+      type: 2}
